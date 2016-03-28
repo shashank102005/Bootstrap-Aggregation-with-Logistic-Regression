@@ -6,3 +6,5 @@ This predictive model was developed in order to predict the result of the breath
 HANDLING OF THE CLASS IMBALANCE:
 
 The data was unbalanced , as the number of negatives far outscored the number of posives. To cater to this phenomenon, two different approaches were tested.One was using the weighted logistic regression , and assigning more weight to the rarer class. Second was to oversample the rarer class, in order to compensate for the imbalance.A technique called SMOTE was used for this purpose , which uses the K nearest neighbors method to artificially generate the instances of the rarer class.  The performance of the two methods were evaluated using different metrics such as Area under the ROC curve(AUC) , and the Kolmogorov-Smirnov Point in the K-S curve. 
+
+
