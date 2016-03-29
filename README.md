@@ -4,6 +4,7 @@ Bootstrap Aggregation with Logistic-Regression
 This predictive model was developed in order to predict the result of the breath screening test for detecting the blood alcohol levels , in the people who were suspected to be driving under the influence of alcohol. Bootstrap averaging was used on the Logistic Regression model, to build the predictive model, as the randomness introduced was expected to improve the overall performance of the model.  
 
 STATISTICAL ANALYSIS FOR INDEPENDENCE:
+
 Pearson's Chi Square test of indpendence was carries out to examine any kind of dependency or association among the different variables. For example , to check whether the gender of the driver has any association with the reason for being asked to undergo the breath test, or whether the age of the driver has anything to do with the chances of being caught driving rashly etc.
 
 
